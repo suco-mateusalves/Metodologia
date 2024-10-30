@@ -2,6 +2,20 @@
 
 Perguntas para estudar
 
+### Extra: Descreva cinco ideias centrais do artigo que você leu para a Tarefa 1 (FICHAMENTO-ESQUEMA-RESUMO).
+
+(Artigo 11) Aqui estão cinco ideias centrais do artigo:
+
+1. **Diferença entre Pesquisa Documental e Bibliográfica**: A pesquisa documental trabalha com fontes primárias, enquanto a bibliográfica usa fontes secundárias.
+
+2. **Tipos de Documentos**: Inclui registros institucionais, cartas, diários e materiais iconográficos, que oferecem uma visão direta do fenômeno estudado.
+
+3. **Análise de Conteúdo**: Técnica que organiza e interpreta dados dos documentos, dividida em pré-análise, exploração e tratamento dos resultados.
+
+4. **Vantagens**: Destacam-se o baixo custo, acessibilidade e estabilidade dos documentos, que permitem revisões sem perda de integridade.
+
+5. **Limitações**: Desafios incluem falta de padronização, subjetividade e risco de não representatividade, exigindo análise cuidadosa do pesquisador.
+
 ### 1. Comente usando argumentos baseados no conteúdo teórico dos artigos apresentados em sala de aula, a seguinte frase “O senso comum não problematiza a relação sujeito/objeto. Acredita no que vê”.
 
 O senso comum, por definição, é um conjunto de crenças e conhecimentos que a sociedade aceita sem questionamento. Essa aceitação imediata é caracterizada pela crença no que se observa, sem a crítica ou reflexão necessária para compreender a relação complexa entre sujeito e objeto. Os artigos discutidos em sala de aula enfatizam a importância da problematização das relações sociais e a crítica à perspectiva naturalizada do cotidiano. Acreditar no que se vê sem questionar implica em uma visão reducionista da realidade, que ignora os fatores subjetivos e contextuais que moldam a experiência. A investigação científica, ao contrário do senso comum, busca compreender e analisar criticamente essas relações, oferecendo um entendimento mais profundo e abrangente da realidade.
